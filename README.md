@@ -5,9 +5,13 @@ libgrave is hopefully going to be a DOS game programming library targeting
 16-bit real mode and optimized to have reasonable performance even on
 8088 @ 4.77MHz PCs like the original IBM Model 5150 and Compaq Portable.
 
-It is inspired by the late 1990s versions of Allegro game programming
-library, thus the name. Grave is a very slow and solemn (24–40  bpm) tempo
-in music, where Allegro is fast and bright (100–156 bpm).
+The idea is heavily influenced by
+[libsixteen](https://github.com/SuperIlu/lib16) by @SuperIlu.
+
+The name is inspired by the late 1990s versions of Allegro game
+programming library, thus the name. Grave is a very slow and solemn
+(24–40 bpm) tempo in music, where Allegro is fast and bright
+(100–156 bpm).
 
 Most of the libary is probably going to be written in MASM 5.1 comatible
 assembly, with high level game loop being in C. I'm not sure what C
@@ -16,6 +20,10 @@ compiler to chose, contenders at the moment are:
 - Turbo C++ 3.0
 - Microsoft C/C++ 7.0
 - Watcom 11.0c / OpenWatcom 1.9
+
+I may also check out
+[GCC IA16](https://gitlab.com/tkchia/build-ia16/-/releases/),
+TopSpeed C 3.1 and Zortech C++ 3.1.
 
 One thing I strongly consider for libgrave is EMS memory support. There is
 very little software / games that will run on 8088 CPU and can take
