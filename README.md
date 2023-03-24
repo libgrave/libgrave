@@ -9,9 +9,9 @@ The idea is heavily influenced by
 [libsixteen](https://github.com/SuperIlu/lib16) by @SuperIlu.
 
 The name is inspired by the late 1990s versions of Allegro game
-programming library (2.0 to 3.12), thus the name. Grave is a very slow and
-solemn (24–40 bpm) tempo in music, where Allegro is fast and bright
-(100–156 bpm).
+programming library (2.0 to 3.12).
+Grave is a very slow and solemn (24–40 bpm) tempo in music,
+where Allegro is fast and bright (100–156 bpm).
 
 Most of the libary is probably going to be written in MASM 5.1 comatible
 assembly, with high level game loop being in C. I'm not sure what C
