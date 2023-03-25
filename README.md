@@ -15,7 +15,7 @@ where Allegro is fast and bright (100–156 bpm).
 
 Most of the libary is probably going to be written in MASM 5.1 comatible
 assembly, with high level game loop being in C. I'm not sure what C
-compiler to chose, contenders at the moment are:
+compiler to choose, contenders at the moment are:
 
 - Turbo C++ 3.0
 - Microsoft C/C++ 7.0
