@@ -6,7 +6,7 @@ libgrave is hopefully going to be a DOS game programming library targeting
 8088 @ 4.77MHz PCs like the original IBM Model 5150 and Compaq Portable.
 
 The idea is heavily influenced by
-[libsixteen](https://github.com/SuperIlu/lib16) by @SuperIlu.
+[libsixteen](https://github.com/SuperIlu/lib16) by [@SuperIlu](https://github.com/SuperIlu).
 
 The name is inspired by the late 1990s versions of Allegro game
 programming library (2.0 to 3.12).
